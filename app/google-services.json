@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "911018803409",
+    "project_id": "appcoche-7daee",
+    "storage_bucket": "appcoche-7daee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:911018803409:android:22f500a1f501627bbd05f0",
+        "android_client_info": {
+          "package_name": "com.example.appcoches"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoaBRds1vFKWYqfH4YwDxPlOY6Y_EFJVY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
